@@ -1,4 +1,4 @@
-# Simple Access Point
+# Captive Portal
 
 Ce projet a pour objectif de fournir un point d'accès wifi simple menant à un site Internet hébergé en local,  
 l'objectif n'étant pas d'utiliser ce portail pour se connecter à Internet mais simplement pour consulter le site en question.
